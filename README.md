@@ -1,2 +1,2 @@
-# grapgql
+# graphql
 GraphQL in .NET Core
