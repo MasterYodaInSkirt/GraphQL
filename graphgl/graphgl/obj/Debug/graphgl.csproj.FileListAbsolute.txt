@@ -15,7 +15,6 @@
 /Users/marijana.markov/grapgql/graphgl/graphgl/bin/Debug/System.Reactive.Core.xml
 /Users/marijana.markov/grapgql/graphgl/graphgl/bin/Debug/System.Reactive.Linq.xml
 /Users/marijana.markov/grapgql/graphgl/graphgl/bin/Debug/System.ValueTuple.xml
-/Users/marijana.markov/grapgql/graphgl/graphgl/obj/Debug/graphgl.csprojAssemblyReference.cache
 /Users/marijana.markov/grapgql/graphgl/graphgl/obj/Debug/graphgl.exe.config
 /Users/marijana.markov/grapgql/graphgl/graphgl/obj/Debug/graphgl.csproj.CoreCompileInputs.cache
 /Users/marijana.markov/grapgql/graphgl/graphgl/obj/Debug/graphgl.csproj.CopyComplete

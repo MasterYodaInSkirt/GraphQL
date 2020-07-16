@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{134814A1-A680-43CD-950E-FED36304470C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="graphgl/Program.cs">
     <Files>
-      <File FileName="graphgl/Program.cs" Line="1" Column="1" />
+      <File FileName="graphgl/Program.cs" Line="32" Column="84" />
+      <File FileName="graphgl/Query.cs" Line="7" Column="17" />
+      <File FileName="graphgl/Jedi.cs" Line="6" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.graphgl FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.graphgl PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

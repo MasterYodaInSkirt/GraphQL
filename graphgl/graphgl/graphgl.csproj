@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Query.cs" />
+    <Compile Include="Jedi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
